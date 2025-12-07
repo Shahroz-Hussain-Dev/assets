@@ -1,0 +1,9 @@
+{
+  "name": "USD Tether",
+  "symbol": "USDT",
+  "type": "BEP20",
+  "decimals": 18,
+  "website": "https://inteleumtrade.netlify.app",
+  "description": "Flash USDT is a learning token deployed on BNB Chain for educational purposes.",
+  "explorer": "https://bscscan.com/token/0x5E2c079fD67C2BCF536822eB642A20A816b1c164"
+}
